@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Consumidor</string>
+
+    <string name="title_talentos">Talentos</string>
+    <string name="title_noticias">Noticias</string>
+    <string name="title_nosotros">Nosotros</string>
+
+    <string name="transition">transition</string>
+    <string name="nuestros_talentos">Nuestros talentos</string>
+    <string name="resultados_vacios">No se encontraron resultados</string>
+    <string name="talento_ejemplo">Bryam Soto</string>
+    <string name="disciplina_ejemplo">Futbol</string>
+    <string name="logo">logo</string>
+    <string name="academia_descripcion">Es un programa que promueve la masificación y captación de talento deportivos a través de talleres gratuitos que se desarrollan en los Complejos Deportivos del IPD a nivel nacional. Comprende las edades de 6 a 17 años.</string>
+    <string name="contactanos">Contáctanos</string>
+    <string name="userTelefono">Teléfono</string>
+    <string name="academia_telefono">204-8420 /anexo 1302</string>
+    <string name="academia_web">appweb.ipd.gob.pe/academia/web/</string>
+    <string name="facebook">facebook</string>
+    <string name="academia_facebook">www.facebook.com/recreacion.ipd/</string>
+    <string name="web">website</string>
+    <string name="derechos_reservados">© Todos los derechos reservados</string>
+    <string name="departamento_ejemplo">Lima</string>
+    <string name="edad_ejemplo">13 años</string>
+    <string name="informacion_del_deportista">Información del deportista</string>
+    <string name="talentoPeso">Peso</string>
+    <string name="peso_ejemplo">45 kg</string>
+    <string name="talla">Talla</string>
+    <string name="talla_ejemplo">167 cm</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="velocidad_ejemplo">100 met/seg</string>
+    <string name="potencia">Potencia</string>
+    <string name="potencia_ejemplo">45 Jl</string>
+    <string name="salto_vertical">Salto vertical</string>
+    <string name="salto_verical_ejemplo">2 m</string>
+    <string name="salto_horizontal">Salto horizontal</string>
+    <string name="salto_horizontal_ejemplo">3.5 m</string>
+    <string name="comentarios_del_entrenador">Comentarios del entrenador</string>
+    <string name="lorem">Polivalente y potente futbolista de 20 años que puede actuar de defensa aunque es un sólido medio. Tapia busca consolidarse en Perú. Con protagonismo en el Twente holandés, con quien la temporada pasada disputó 17 partidos de Eredivisie, competirá por un puesto en la medular con tótems del fútbol peruano como Lobatón o Ballón.</string>
+    <string name="video_de_acciones">Video de acciones</string>
+    <string name="atras">Atrás</string>
+    <string name="listo">Listo</string>
+    <string name="talentoFicha">Ficha</string>
+    <string name="buscar">Buscar</string>
+    <string name="volver">Volver</string>
+    <string name="continuar">Continuar</string>
+    <string name="talentos_deportivos">Talentos deportivos</string>
+    <string name="talentos_deportivos_detalle">Encuentra a los futúros deportistas calificados de nuestro país</string>
+    <string name="contactalos">Contáctalos</string>
+    <string name="contactalos_detalle">Te ayudamos a contactar con los deportistas de tu interes</string>
+    <string name="deportistas_consolidados">Deportistas consolidados</string>
+    <string name="deportistas_consolidados_detalle">Promovemos a nuestros deportistas en clubes y federaciones</string>
+    <string name="busqueda_avanzada">Busqueda avanzada</string>
+    <string name="busqueda_avanzada_detalle">¿Buscas un deportista con características específicas?</string>
+    <string name="encuentralo_aqui">Encuéntralo aquí</string>
+    <string name="seleccione_deporte">Seleccione un deporte</string>
+    <string name="noticias_institucionales">Noticias Institucionales</string>
+    <string name="etapas_de_la_academia">Etapas de la Academia</string>
+    <string name="inicio">Inicio</string>
+    <string name="inscripcion">Inscripción</string>
+    <string name="inscripcion_detalle">Preinscripción en la web y su posterior validación en el complejo deportivo</string>
+    <string name="etapa_1">Etapa 1</string>
+    <string name="iniciacion_deportiva">Iniciación deportiva</string>
+    <string name="iniciacion_deportiva_detalle">Inicio del proceso de enseñanza y aprendizaje de las disciplinas deportivas a través de juegos.</string>
+    <string name="etapa_2">Etapa 2</string>
+    <string name="formacion_deportiva">Formación deportiva</string>
+    <string name="formacion_deportiva_detalle">Cimentar cualidades deportivas en una talentoDisciplina específica con el fin de iniciar el proceso deportivo</string>
+    <string name="etapa_3">Etapa 3</string>
+    <string name="consolidacion_deportiva">Consolidación deportiva</string>
+    <string name="consolidacion_deportiva_detalle">El deportista desarrolla al máximo sus cualidades físicas y tiene proyeccion en futuras competencias federativas</string>
+    <string name="error_message">Error, verifique su conexión a internet</string>
+    <string name="ver_ficha_tecnica">Ver Ficha Técnica</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="fecha_evaluacion">Fecha de evaluación</string>
+    <string name="talentoDisciplina">Disciplina</string>
+    <string name="complejo_ejemplo">C.D. Puente del Ejercito</string>
+    <string name="complejo_deportivo">Complejo deportivo</string>
+    <string name="talentoEdad">Edad</string>
+    <string name="capacidades_físicas">Capacidades Físicas</string>
+    <string name="download">download</string>
+    <string name="close">cerrar</string>
+    <string name="phone">012041302</string>
+    <string name="title_perfil">Perfil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="disciplinas">
+        <item>Atletismo</item>
+        <item>Judo</item>
+        <item>Fútbol</item>
+        <item>Natación</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

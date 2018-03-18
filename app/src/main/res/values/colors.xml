@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/purpura_indecopi</color>
+    <color name="colorPrimaryDark">@color/purpura_indecopi_dark</color>
+    <color name="colorAccent">@color/white</color>
+
+    <color name="purpura_indecopi">#C3014D</color>
+    <color name="naranja_indecopi">#DC6512</color>
+    <color name="amarillo_indecopi">#F7A700</color>
+    <color name="plomo_indecopi">#888686</color>
+    <color name="verde_indecopi">#4CAF50</color>
+    <color name="rojo_indecopi">#F44336</color>
+
+    <color name="purpura_indecopi_dark">#b30b4c</color>
+
+    <color name="primaryText">#424242</color>
+    <color name="primaryTextLight">#757575</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

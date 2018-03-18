@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/nav_presenta_reclamo"
+            android:icon="@drawable/ic_presenta_reclamo"
+            android:title="Presenta tu reclamo" />
+        <item
+            android:id="@+id/nav_mis_reclamos"
+            android:icon="@drawable/ic_mis_reclamos"
+            android:title="Mis reclamos" />
+        <item
+            android:id="@+id/nav_productos_peligrosos"
+            android:icon="@drawable/ic_productos_peligrosos"
+            android:title="Productos en alerta" />
+        <item
+            android:id="@+id/nav_sedes_oficinas"
+            android:icon="@drawable/ic_sedes_oficinas"
+            android:title="Sedes y estadísticas" />
+    </group>
+
+    <item android:title="Aplicación">
+        <menu>
+            <item
+                android:id="@+id/nav_acerca_de"
+                android:icon="@drawable/ic_acerca_de"
+                android:title="Acerca de" />
+            <item
+                android:id="@+id/nav_cerrar_sesion"
+                android:icon="@drawable/ic_cerrar_sesion"
+                android:title="Cerrar sesión" />
+        </menu>
+    </item>
+
+</menu>
